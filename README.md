@@ -3,9 +3,8 @@
 Programme réaliser en C#       
 Pour calculer les premiers nombres entiers         
 aller dans le dossier :    
-factorielle-avec-repeter/factorielle avec repeter/bin/Debug/     
-puis lancer    
-factorielle avec repeter.exepour l'executer      
+premiers-nombre-entier/premiers nombre entier/bin/Debug/premiers nombre entier.exe
+
 aller dans le dossier :         
 factorielle-avec-repeter/factorielle avec repeter/     
 puis lancer        
