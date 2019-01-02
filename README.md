@@ -6,8 +6,6 @@ aller dans le dossier :
 premiers-nombre-entier/premiers nombre entier/bin/Debug/premiers nombre entier.exe     
 Pour le lancer     
 aller dans le dossier :         
-factorielle-avec-repeter/factorielle avec repeter/     
-puis lancer        
-Program.cs    
+premiers-nombre-entier/premiers nombre entier/Program.cs      
 pour voir le code
 
